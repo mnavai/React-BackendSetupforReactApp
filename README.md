@@ -79,7 +79,7 @@ EMAIL_PORT=465
 npm i && npm run start
 ```
 
-### check if everything works
+### check if everything works - and commit
 
 send a POST request to `http://localhost:8000/api/auth/register` with JSON
 payload
